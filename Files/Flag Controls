@@ -1,6 +1,8 @@
-FLAG CONTROLS V. 0.1
+FLAG CONTROLS V. 0.1.3
 
 When complete, this file will contain a code block that you can copy and paste into any CodeCombat level and control your character from the Submit screen instead of writing code beforehand
+
+Keep in mind this is JavaScript
 
 Before you begin, make sure you have the following thing(s):
   Dynamic Flags (flags will be your control mechanisim)
