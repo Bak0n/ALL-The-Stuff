@@ -6,4 +6,4 @@ if (Enemy) {
 this.attack(enemy);
 }}
 if (Move) {
-    this.pickUpFlag(Move); } }
+this.pickUpFlag(Move); } }
