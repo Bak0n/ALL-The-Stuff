@@ -1,11 +1,9 @@
-FLAG CONTROLS V. 0.0
+FLAG CONTROLS V. 0.1
 
 When complete, this file will contain a code block that you can copy and paste into any CodeCombat level and control your character from the Submit screen instead of writing code beforehand
 
-Before you begin, make sure you have the following things:
-  Sword and boots (obvious reasons)
+Before you begin, make sure you have the following thing(s):
   Dynamic Flags (flags will be your control mechanisim)
-  Hardened Steel Glasses (advanced pathfinding)
  
 The plan is to have your character run to the flag and stay there, where other flag mechanisims toggle fighting or sheilding, the last flag won't be used for now
 
@@ -14,4 +12,8 @@ Current section:
 	
 CODE WILL BEGIN HERE
 
-That's a lot o' code...
+loop {
+var Move = this.findFlag("green");
+if (Move) {
+    this.pickUpFlag(Move); } 
+}
