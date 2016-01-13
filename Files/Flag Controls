@@ -10,8 +10,8 @@ Before you begin, make sure you have the following thing(s):
 The plan is to have your character run to the flag and stay there, where other flag mechanisims toggle fighting or sheilding, the last flag won't be used for now
 
 Current section:
-	Pathfinding
-	
+	Improving Combat Mode
+
 CODE WILL BEGIN HERE
 
 loop {
@@ -22,6 +22,4 @@ if (Enemy) {
 this.attack(enemy);
 }}
 if (Move) {
-    this.pickUpFlag(Move); } 
-}
-
+    this.pickUpFlag(Move); } }
