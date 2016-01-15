@@ -3,7 +3,6 @@ var Attack = this.findFlag("black");
 var Move = this.findFlag("green");
 if (Attack) {
 if (Enemy) {
-this.attack(enemy);
-}}
+this.attack(enemy); }}
 if (Move) {
 this.pickUpFlag(Move); } }
