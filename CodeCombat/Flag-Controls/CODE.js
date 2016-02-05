@@ -1,8 +1,9 @@
 loop {
-var Attack = this.findFlag("black");
-var Move = this.findFlag("green");
+	var Attack = this.findFlag("black");
+	var Move = this.findFlag("green");
 if (Attack) {
-if (Enemy) {
-this.attack(enemy); }}
+	this.findNearestEnemy
+	if (Enemy) {
+		this.attack(Enemy); }}
 if (Move) {
-this.pickUpFlag(Move); } }
+	this.pickUpFlag(Move); } }
