@@ -21,4 +21,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 **TL;DR: Give me credit if you use this as a base or copy off parts, and that code has to be licensed under MIT**
+
 **This applies to all of my code on GitHub.**
