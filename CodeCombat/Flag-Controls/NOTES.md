@@ -1,12 +1,12 @@
 ##FLAG CONTROLS V. 0.1.3 
-######		Licensed under MIT
+######	Licensed under MIT
 
 ###ABOUT THE PROJECT
-	The idea of Flag Controls was a code block that would be copied and pasted into any level and provide
+The idea of Flag Controls was a code block that would be copied and pasted into any level and provide
 an easy and simple way to beat levels. Currently, it has 2 functions, the second in an early state.
 
 ###HOW TO USE IT
-	Flag Controls is simple, just
+Flag Controls is simple, just
 1. Enter real-time playback
 2. Control your character using G and then clicking to guide your character to a location.
 3. Attack by pressing B and clicking (it's best to click ON the character, not around or away from it, however it still works).
