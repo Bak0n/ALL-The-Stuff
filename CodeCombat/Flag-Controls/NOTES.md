@@ -11,7 +11,7 @@ Flag Controls is simple, just
 2. Control your character using G and then clicking to guide your character to a location.
 3. Attack by pressing B and clicking (it's best to click ON the character, not around or away from it, however it still works).
 4. There will be a third function activated by pressing V, but I haven't even started on that. 
-^	 Once I finish attack mode I'll begin on that.
+^	  Once I finish attack mode I'll begin on that.
 
 ###BEFORE USING THE CONTROLS
  - Flag Controls is written in JavaScript, if you haven't already, set your language to JavaScript it in settings.
