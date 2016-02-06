@@ -20,5 +20,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-**Basically just give me credit if you modify or use this publicly, and it too has to be licensed under MIT
-This applies to all my code on Git.**
+**TL;DR: Give me credit if you use this as a base or copy off parts, and that code has to be licensed under MIT**
+**This applies to all of my code on GitHub.**
