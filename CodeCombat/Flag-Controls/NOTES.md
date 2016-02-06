@@ -1,5 +1,5 @@
 ##FLAG CONTROLS V. 0.1.3 
-######	Licensed under MIT
+######	[Licensed under MIT](https://github.com/Bak0n/ALL-The-Stuff/blob/master/LICENSE.md)
 
 ###ABOUT THE PROJECT
 The idea of Flag Controls was a code block that would be copied and pasted into any level and provide
