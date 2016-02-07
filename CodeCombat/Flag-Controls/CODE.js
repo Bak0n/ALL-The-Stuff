@@ -1,14 +1,16 @@
 loop {
+// Variables defined
 	var Attack = this.findFlag("black");
 	var Move = this.findFlag("green");
-	var Retreat = this.findFlag("violet")
+	var Retreat = this.findFlag("violet");
+// And the functions here
 if (Attack) {
-	this.findNearestEnemy
+	var Enemy = this.findNearestEnemy;
 	while (Enemy) {
 		this.attack(Enemy); }}
 if (Move) {
 	this.pickUpFlag(Move); } 
 if(Retreat) {
-say("Function coming soon!")
+this.say("Function coming soon!");
 this.pickUpFlag(Retreat);
 }
