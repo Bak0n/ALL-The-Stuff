@@ -3,7 +3,7 @@
 
 ###ABOUT THE PROJECT
 The idea of Flag Controls was a code block that would be copied and pasted into any level and provide
-an easy and simple way to beat levels. Currently, it has 2 functions, the second in an early state.
+an easy and simple way to beat levels. Currently, it has 2 functions, and a third in an early state.
 
 ###HOW TO USE IT
 Flag Controls is simple, just
