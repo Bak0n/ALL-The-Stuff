@@ -23,6 +23,6 @@ function gAnswer() {
 
 // Parse answers and click on the correct one, determined from gAnswer();
 
-funcions pAnswers() {
+function pAnswers() {
 // Still working!
 }
