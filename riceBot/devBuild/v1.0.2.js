@@ -1,4 +1,4 @@
-// Stackoverflow script to install jQuery through console
+/* Stackoverflow script to install jQuery through console
 
 javascript: (function(e, s) {
     e.src = s;
@@ -8,6 +8,7 @@ javascript: (function(e, s) {
     };
     document.head.appendChild(e);
 })(document.createElement('script'), '//code.jquery.com/jquery-latest.min.js')
+*/
 
 // Code to parse question and solve
 
